@@ -8,7 +8,7 @@
     "url": "https://github.com/MetaMemoryT/tern-chrome-apps.git"
   },
   "author": "MetaMemoryT",
-  "license": "?",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MetaMemoryT/tern-chrome-apps/issues"
   }
